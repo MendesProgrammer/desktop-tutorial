@@ -1,7 +1,7 @@
 # Caio Mendes
 👨‍💻 Estudante de Sistemas de Informação | Explorando Desenvolvimento e Tecnologia
 
-🎓 Iniciando minha jornada no mundo da tecnologia, aprendendo linguagens de programação como PHP, JavaScript e Swift.
+🎓 Iniciando minha jornada no mundo da tecnologia, aprendendo linguagens de programação como Python, Java e C++.
 
 🚀 Entusiasta de desenvolvimento de sistemas, orientação a objetos e automação de processos.
 
